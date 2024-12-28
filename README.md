@@ -8,7 +8,6 @@ Download: [Latest Release](https://github.com/official-profanity/tron-profanity-
 ![](https://img.shields.io/badge/baseon-gpu-yellowgreen.svg)
 ![](https://img.shields.io/badge/language-c,c++-orange.svg)
 ![](https://img.shields.io/badge/platform-windows,linux-yellow.svg)
-![](https://img.shields.io/badge/telegram-@sponsord2022-blue.svg)
 
 A GPU-accelerated TRON (TRX) address generator. Open source, secure and reliable 🔥
 
