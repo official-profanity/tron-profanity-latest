@@ -1,6 +1,10 @@
 # Tron-profanity-latest
 
-Download: [Latest Release](https://github.com/official-profanity/tron-profanity-latest/releases)
+# 📥 Download Latest Version
+
+### [⬇️ Download Latest Release(TRON)](https://github.com/official-profanity/tron-profanity-latest/releases)
+### [⬇️ Download Latest Release(ETH)](https://github.com/official-profanity/tron-profanity-latest/releases)
+#
 
 + High-performance TRON (TRX) vanity address generator utilizing GPU acceleration. Generate custom TRX addresses using CUDA/OpenCL. Secure, open-source implementation with vulnerability fixes. Multi-signature support for enhanced security. Windows/Linux/Mac compatible.
 
